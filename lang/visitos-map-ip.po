@@ -1,0 +1,341 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: stefan <stefan@aichholzer.name>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "%d visits from this country"
+msgstr "%d visitas de este país"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "%s will display the times a certain IP visited your site."
+msgstr "%s mostrará las veces que una IP te ha visitado."
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "%s with %s visits so far"
+msgstr "%s con %s visitas hasta ahora"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "<strong>Configure the plug-in</strong> and to include it in any page (anywhere you want) use:"
+msgstr "<strong>Configura el plug-in</strong> e incluyelo en cualquier página (en donde quieras) usa:"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "<strong>Top 7 visiting countries:</strong><br />The country names cannot be translated as they are only available in english in the binary Geo-IP file."
+msgstr "<strong>Los 7 países que más visitan:</strong><br />Los nombres de los países no pueden ser traducidos ya que únicamente están disponibles en inglés en el archivo binario de Geo-IP."
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "About"
+msgstr "Acerca de"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Amount of markers:"
+msgstr "No. de marcadores:"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "By default the plug-in will only collect data if it is inserted in your template pages."
+msgstr "Por defecto el plug-in solo recogerá información si se inserta tus plantillas."
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Click the markers on the map for the details."
+msgstr "Has clic en los marcadores en el mapa para los detalles."
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Collect in posts:"
+msgstr "Recoger en entradas:"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Custom marker:"
+msgstr "Marcardor propio:"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Default map CSS:"
+msgstr "CSS predeterminada:"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Display language:"
+msgstr "Mostrar lenguaje:"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "English"
+msgstr "Inglés"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "For example:"
+msgstr "Por ejemplo:"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "French"
+msgstr "Francés"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "German"
+msgstr "Alemán"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Get your free API key at: %s"
+msgstr "Obten tu clave API en: %s"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Google maps API key:"
+msgstr "Clave API de Google:"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "I am sorry but this plug-in requires PHP version 5 and above<br />Your current PHP version is: %s"
+msgstr "Lo siento, pero este plug-in requiere PHP versión 5 o superior<br />Tu versión actual de PHP es: %s"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "If not set defaults to 1"
+msgstr "Valor predeterminado es 1"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "If not set defaults to 18"
+msgstr "Valor predeterminado es 18"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "If not set defaults to 300"
+msgstr "Valor predeterminado es 300"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "If not set defaults to 37"
+msgstr "Valor predeterminado es 37"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "If not set defaults to English (This is for the map controls)"
+msgstr "Por defecto utilizará inglés (Esto es para los controles del mapa)"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "If not set no event will be fired on marker click."
+msgstr "Si no se define no habrá acción al hacer clic en un marcadores."
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "If you feel it needs something else or you would like to have an extra feature, please let me know and we will figure it out, but please do not bomb my e-mail with requests as if you had payed for it."
+msgstr "Si piensas que le hace falta algo o que hay algo que te gustaría que haga, mándame un mail y lo resolveremos, pero no bombardees mi correo con solicitudes como si hubieses pagado por ello."
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "If you like this plug-in please vote on its Wordpress site, leave a comment on the plug-in page or just mention it on your site."
+msgstr "Si te gusta este plug-in, por favor votalol en su página de Wordpress, deja un comentario en el sitio o simplemente mencionalo en tu página."
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Information / Help"
+msgstr "Información / Ayuda"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Infowindow text:"
+msgstr "Ventana informativa:"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Instead of editing your CSS file, you can add some custom CSS here"
+msgstr "En lugar de editar tus archivos CSS, puedes insertar CSS desde aquí"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Italian"
+msgstr "Italiano"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Logo: %s"
+msgstr "Logotipo: %s"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Map latitude:"
+msgstr "Latitud del mapa:"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Map longitude:"
+msgstr "Longitud del mapa:"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Map settings"
+msgstr "Configuración"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Map zoom level:"
+msgstr "Nivel de zoom:"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Marker icon:"
+msgstr "Marcador:"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Most visits from IP:"
+msgstr "Mayoría de visitas:"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "No"
+msgstr "No"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Note that when including a map in your post no IP information will be recorded, this should be used for visitor displaying purposes only. It will also add an extra class (%s) to the container that holds the map, that way you can have two different CSS styles defined for the same container and not mess with your design."
+msgstr "Recuerda que por defecto no se recogerá información si el mapa está en una entrada, esto debería ser solo para mostrar los datos. En este caso también agregará una class adicional (%s) al contenedor del mapa, de este modo es posible tener dos estilos CSS diferentes para el mismo contenedor y no arruinar tu diseño."
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Powered by: %s"
+msgstr "Impulsado por: %s"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Save changes"
+msgstr "Guardar"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Select"
+msgstr "Selecciona"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Spanish"
+msgstr "Español"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Thank you once again for using this plug-in and enjoy!"
+msgstr "Gracias de nuevo por usar este plug-in y ¡que lo disfrutes!"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "The plug-in will generate a container %s with an id called %s so the result will be: %s and the map will be rendered inside that container, you can then create an entry in your CSS file and customize the size, border, margin, position, etc., of that container. Take a loot at: %s to see how it is done there.<br /><strong>You can also insert your custom CSS in the settings page and the plug-in will insert them into the map container. This properties can always be overwritten by your default style sheets. <i>As mentioned above: by default the plug-in will not include any CSS and it will be up to you to add the properties in your .css (Template style sheets) files.</i><br />Use (for example):</strong>"
+msgstr "El plug-in generará un contenedor %s con un id llamado %s de modo que el resultado será: %s y el mapa será generado dentro de ese contenedor, entonces puedes crear una entrada en tu archivo CSS y personalizar el tamaño, borde, margen, posición, etc., de dicho contenedor. Mira como está hecho en: %s <br /><strong>También puedes insertar tus estilos directamente en la página de configuración y en ese caso el plug-in los incluirá al generar el mapa. Estas propiedades siempre podrán ser sobre escritas por tus CSS por defecto. <i>Como lo mencioné antes: por defecto el plug-in no incluirá ningún tipo de CSS y tendrás que agregar las propiedades que quieras en tus archivos .css (Las hojas de estilo de tu plantilla)</i><br />Usa (por ejemplo):</strong>"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "The size for any custom icon should be 32x32 pixels and it should be a transparent PNG file"
+msgstr "El tamaño de un marcador personalizado debería ser de 32x32 pixeles y debería ser un archivo PNG transparente"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "This is the marker that you are currently using: %s"
+msgstr "Este es el marcador que actualmente estás utilizando: %s"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "This plug-in does exactly what it says it does: it grabs you visitors IP address and generates a map with those visits.<br />I recommend including this plug-in in your home page, since that is usually the first place your visitors will find."
+msgstr "Este plug-in hace justamente lo que dice hacer: recoge la información IP de tus visitas y genera un mapa con dichas visitas.<br />Recomiendo incluir este plug-in en tu página inicial, ya que ese suele ser el primer lugar al que lleguen tus visitantes."
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "This plug-in was written in my free time mostly to fulfil certain needs I had on my site.<br/>I decided to make it public because I thought there might be anybody else with the same needs I had.<br />So (if you are reading this then you already have it in your site) enjoy it and please keep in mind what I just said: <strong>It is free and distributed as it is</strong>."
+msgstr "Este plug-in ha sido escrito en mi tiempo libre y principalmente para ciertas necesidades personales.<br />Decidí hacerlo público porque considero que quizá haya más gente con las mismas necesidades.<br />Así que (si estás leyendo esto es porque ya lo tienes en tu sitio) disfrutalo y recuerda lo dicho: <strong>Es gratuito y se distribuye tal y como es.</strong>"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "This will give you a map container with a red, 2px border, set the margins around the map to 20px and set the width to 300px and the height to 200px."
+msgstr "Con esto el contenedor del mapa tendrá un border rojo de 2px, los márgenes al rededor del mapa estarán fijados a 20px, el ancho será de 300px y el alto de 200px."
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Visit density by country:"
+msgstr "Densidad de visitas por país:"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Visitor map"
+msgstr "Mapa de visitas"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Visitor map (IP) plug-in"
+msgstr "Mapa de visitas (IP)"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Visitor maps by IP"
+msgstr "Mapa de visitas por IP"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Visitor statistics"
+msgstr "Estadísticas de visitas"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "By: %s - Distributed under GNU/GPL license."
+msgstr "Por: %s - Distribuído bajo licencia GNU/GPL."
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "Yes"
+msgstr "Si"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "You are currently using a custom marker for your maps. Your file has been renamed and can be found at this address:<br /> %s"
+msgstr "Actualmente estás utilizando un marcador propio en tus mapas. Tu archivo ha sido renombrado y puede verse en esta dirección:<br /> %s"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "You can also include maps in your posts. In your post simply use one of the identifiers to render the map on a given place.<br />Valid identifiers are:"
+msgstr "También puedes insertar mapas en tus entradas. En tus entradas simplemente utiliza uno de los identificadores para generar el mapa en un lugar determinado.<br />Los identificadores válidos son:"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "You can also insert the map in your template and not render a map (This could be usefull if you want to record visitor data and display it somewhere else) in that case use:"
+msgstr "También puedes insertar el código en tu mapa pero no generar un mapa (Esto puede ser útil para recoger información en un sitio y mostrarla en otro), en este caso usa:"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "You can insert HTML here."
+msgstr "Aquí se permite usar HTML."
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "and the plug-in will include that in the map container."
+msgstr "y el plug-in incluirá eso en el contenedor del mapa."
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "or more"
+msgstr "o más"
+
+#. Text in function
+#: ip-access-tracker.php:1
+msgid "visits"
+msgstr "visitas"
+

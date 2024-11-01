@@ -1,0 +1,145 @@
+
+#div_maps_options {
+	margin: 40px 20px;
+	padding: 0 20px 20px 20px;
+	border: 3px solid #666;
+	background: #FFF url(../img/map_bg.jpg) top left no-repeat;
+	overflow: hidden;	
+ }
+ 
+	#div_maps_options #map_logo {
+		background: url(../img/maplogo.png) top left no-repeat;
+		width: 440px;
+		height: 100px;
+		text-indent: -10000px;
+ 	}
+ 
+ 	#div_maps_options #map_contents {
+ 		margin: 40px 20px 10px 10px;
+ 		border: none;
+ 		border-top: 1px dashed #666;
+ 		border-left: 1px dashed #666;
+ 		padding: 10px 20px 30px 20px;
+ 	}
+ 	
+ 	#div_maps_options #map_contents .vertalign {
+ 		vertical-align: top;
+ 	}
+ 
+	#div_maps_options #options_links ul li {
+		display: inline;
+		padding: 4px 10px;
+		margin: 0 7px 0 0;
+		border: 1px solid #999;
+		font-size: 13px;
+		font-weight: bold;
+	}
+	
+		#div_maps_options #options_links ul li a {
+			text-decoration: none;
+			color: #FF6400;
+		}
+		
+		#div_maps_options #options_links ul li a:hover {
+			text-decoration: underline;
+			color: #FF6400;
+		}
+		
+		
+	#div_maps_options #map_contents .map_stats_admin {
+		border: 1px solid #666666;
+		height: 450px;
+		margin-top: 10px;
+		width: 100%;
+	}
+
+
+	#div_maps_options #footer_note {
+		margin: 50px 0 0 0;
+		border-top: 1px solid #999;
+		padding-top: 4px;
+		font-size: 11px;
+		color: #666;
+	}
+ 
+   	#div_maps_options fieldset {
+		width: 700px;
+ 	}
+ 
+  	#div_maps_options label {
+		display: inline;
+		float: left;
+		margin-top: 22px;
+		width: 150px;
+ 	}
+ 		
+ 	#div_maps_options input,
+ 	#div_maps_options select,
+ 	#div_maps_options textarea {
+		border: 1px solid #666;
+		font: 14px "Trebuchet MS";
+		padding: 3px;
+		color: #FF6400;
+		width: 500px;
+		margin-top: 20px;
+ 	}
+ 	
+ 	#div_maps_options select {
+ 		width: 100px;
+ 		margin-right: 450px;
+ 		padding: 1px;
+ 	}
+ 	
+ 	#div_maps_options .smaller_input_box {
+ 		width: 50px;
+ 		margin-right: 500px;
+ 	}
+ 	
+	#div_maps_options .map_icon_selector {
+		border: 2px solid rgb(255, 255, 255);
+		margin: 0px;
+		padding: 0px;
+		width: 32px;
+		height: 32px;
+		-moz-user-select: none;
+		background-image: url(../img/icon.png);
+		vertical-align: middle;
+		cursor: pointer;
+	}
+ 	
+ 	
+	#div_maps_options #maps_options_submit {
+		margin: 15px 0 0 0;
+		border: 1px solid #666;
+		font: 13px "Trebuchet MS";
+		font-weight: bold;
+		color: #333;
+		width: 100px;
+		padding: 6px;
+ 	}
+ 	
+	#div_maps_options h3 {
+		font: 22px "Trebuchet MS"; 
+		margin: 0 0 0 0;
+		color: #FF6400;
+		font-weight: bold !important;
+	}
+
+	#div_maps_options p {
+		font-size: 13px; 
+	}
+	 	
+	#div_maps_options pre {
+		font-size: 15px;
+		color: #FF0000;
+	}
+	 	
+	#div_maps_options i {
+		color: #666;
+	}
+	
+	.hits_by_country {
+		color: #666;
+		font: 14px "Trebuchet MS";
+		padding: 10px;
+	}
